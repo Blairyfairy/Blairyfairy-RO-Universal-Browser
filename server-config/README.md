@@ -1,0 +1,1 @@
+Put the generated Config.local.js here AFTER reviewing the upstream Config.local.js.example and ensuring the structure and loading path match the pinned upstream version. The Pages build copies this file to client/Config.local.js. Do not put passwords or private server keys here: GitHub Pages files are public.
